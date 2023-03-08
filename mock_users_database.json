@@ -1,0 +1,25 @@
+[
+    {
+        "username": "JS",
+        "password": "Password123",
+        "name": "Jane Smith",
+        "email": "jane@coolmail.com",
+        "telephones": {
+            "mobile": "07999 987654"
+        },
+        "status": "excellent"
+    },
+    {
+        "username": "johnsmith",
+        "password": "johnsmith1990",
+        "name": "John Smith",
+        "email": "john@hotmail.com",
+        "telephones": {
+                "work": {
+                    "office": "0324 420194",
+                    "reception": "02346 842957"
+                }
+            },
+        "status": "excellent"
+    }
+]
