@@ -1,4 +1,4 @@
-from gdpr_mask import mask
+from src.gdpr_mask import mask
 
 
 def test_nothing_to_mask():
