@@ -50,7 +50,7 @@ def check_password(password_hash):
         print("Too many attempts, try again later")
         return False
 
-    print("Incorrect Password")
+    print("Incorrect Password. Try again...")
     attempts += 1
     return check_password(password_hash)
 
